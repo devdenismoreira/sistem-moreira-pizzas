@@ -1,6 +1,6 @@
 <div align="center">
   
-![logo](https://github.com/Denis-moreira98/api-pizzaria/assets/72985107/68e4a1f0-c155-405a-b68a-f1e6a5636e4b)
+![logo](https://github.com/devdenismoreira/api-pizzaria/assets/72985107/68e4a1f0-c155-405a-b68a-f1e6a5636e4b)
 
 # Sistema de gerenciamento de pedido para pizzaria 🍕
 </div>
@@ -9,11 +9,11 @@
 
 Este sistema foi desenvolvido especialmente para pizzarias, com o propósito principal de otimizar o atendimento ao cliente. Focando em agilidade e organização, busca proporcionar uma experiência mais ágil e eficiente, enquanto facilita a comunicação entre os garçons e a cozinha.
 
-### Repositorio do [Backend](https://github.com/Denis-moreira98/api-pizzaria).
+### Repositorio do [Backend](https://github.com/devdenismoreira/api-pizzaria).
 
 ## Apresentação do Projeto
 
-[![Moreira Pizzas](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/0435dc3f-64ea-4e54-ac8d-34f028fbf8ae)](https://www.youtube.com/watch?v=08vw_p-_Ph4&ab_channel=DenisMoreira)
+[![Moreira Pizzas](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/0435dc3f-64ea-4e54-ac8d-34f028fbf8ae)](https://www.youtube.com/watch?v=08vw_p-_Ph4&ab_channel=DenisMoreira)
 
 ## Funcionalidades do website
 
@@ -56,22 +56,22 @@ Este sistema foi desenvolvido especialmente para pizzarias, com o propósito pri
 
 ## Mobile versão
 
-![login-removebg-preview_resized](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/45243aca-360a-43c6-a00c-9e23d64c3e7f)
-![abrir_mesa-removebg-preview_resized](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/33bdae0c-4cd3-4b11-ad2b-8a1cacf14cfb)
-![mesa_sem_pedidos-removebg-preview_resized](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/b0549e10-8034-4682-9065-31c353fbaa17)![mesa_com_pedidos-removebg-preview_resized](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/2f64c7b0-1044-460e-b0f4-8f5c67e7ef7f)
-![finalizar_pedido-removebg-preview_resized](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/49ee7f8c-3384-4a27-809d-c17656555adf)
+![login-removebg-preview_resized](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/45243aca-360a-43c6-a00c-9e23d64c3e7f)
+![abrir_mesa-removebg-preview_resized](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/33bdae0c-4cd3-4b11-ad2b-8a1cacf14cfb)
+![mesa_sem_pedidos-removebg-preview_resized](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/b0549e10-8034-4682-9065-31c353fbaa17)![mesa_com_pedidos-removebg-preview_resized](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/2f64c7b0-1044-460e-b0f4-8f5c67e7ef7f)
+![finalizar_pedido-removebg-preview_resized](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/49ee7f8c-3384-4a27-809d-c17656555adf)
 
 ## Desktop versão
 
-![cadastro](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/7cea8cc4-72ec-4b7c-8b58-03ccc05728d5)
-![login](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/9cc550e1-5178-4bb3-9ab2-c83177708ffa)
-![Captura de Tela (290)](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/d6617818-844c-4193-b04e-a1305b714f59)
-![Captura de Tela (287)](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/e4e5057a-15f4-4857-a891-31663fd88b6b)
-![Captura de Tela (284)](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/16ba6746-10a1-4e99-a0aa-c8e92294090c)
-![Captura de Tela (285)](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/384c3902-ea0e-4d0a-aaf8-2f2e099361cc)
-![Captura de Tela (286)](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/1168c122-60eb-4bd3-8623-d323e3ffdd6e)
-![Captura de Tela (290)](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/d6617818-844c-4193-b04e-a1305b714f59)
-![Captura de Tela (289)](https://github.com/Denis-moreira98/sistem-moreira-pizzas/assets/72985107/11804cf2-1baf-463b-852e-ddf1e0c05f1a)
+![cadastro](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/7cea8cc4-72ec-4b7c-8b58-03ccc05728d5)
+![login](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/9cc550e1-5178-4bb3-9ab2-c83177708ffa)
+![Captura de Tela (290)](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/d6617818-844c-4193-b04e-a1305b714f59)
+![Captura de Tela (287)](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/e4e5057a-15f4-4857-a891-31663fd88b6b)
+![Captura de Tela (284)](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/16ba6746-10a1-4e99-a0aa-c8e92294090c)
+![Captura de Tela (285)](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/384c3902-ea0e-4d0a-aaf8-2f2e099361cc)
+![Captura de Tela (286)](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/1168c122-60eb-4bd3-8623-d323e3ffdd6e)
+![Captura de Tela (290)](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/d6617818-844c-4193-b04e-a1305b714f59)
+![Captura de Tela (289)](https://github.com/devdenismoreira/sistem-moreira-pizzas/assets/72985107/11804cf2-1baf-463b-852e-ddf1e0c05f1a)
 
 
 
